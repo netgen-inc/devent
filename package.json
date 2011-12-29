@@ -1,0 +1,16 @@
+{
+    "name": "devent",
+    "version": "0.1.0",
+    "description": "Distributed Event Engine",
+    "author": "iwater <iwater@gmail.com>",
+    "dependencies": {
+        "zmq": ">= 2.0.0"
+    },
+    "main": "index",
+    "scripts": {
+        "start": "node event-server.js"
+    },
+    "engines": {
+        "node": "0.6.x"
+    }
+}
