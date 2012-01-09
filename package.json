@@ -4,7 +4,8 @@
     "description": "Distributed Event Engine",
     "author": "iwater <iwater@gmail.com>",
     "dependencies": {
-        "zmq": ">= 2.0.0"
+        "zmq": ">= 2.0.0",
+        "optimist": ">= 0.3.0"
     },
     "main": "index",
     "scripts": {
